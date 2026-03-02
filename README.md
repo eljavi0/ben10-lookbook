@@ -1,7 +1,7 @@
 # Digital Lookbook - El regreso de Ben 10
 
 ## Concepto de Diseño
-El diseño sigue una estética minimalista oscura elegante, utilizando una grilla de 6 columnas para generar jerarquía visual y dinamismo.
+El diseño sigue una estética minimalista oscura elegante, utilizando un grid de 6 columnas para generar jerarquía visual y dinamismo.
 
 ## Paleta de Colores
 Se utilizó verde como color acento representando el Omnitrix, sobre fondo oscuro para generar contraste.
